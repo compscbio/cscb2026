@@ -53,7 +53,7 @@
 #### Class Meetings
 - 12noon to 1:15 PM on Tuesdays and Thursdays
 - Maryland Room 110
-- Attendence is encouraged
+- Attendance is encouraged
 - Zoom:
     - [https://wse.zoom.us/j/98485708835](https://wse.zoom.us/j/98485708835)
     - Requires authentication via Hopkins SSO to join
