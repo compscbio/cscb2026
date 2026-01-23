@@ -95,7 +95,7 @@ nav:
 #    - 'Project': 'hws/final_project.md'
   - Readings: readings.md
   - Glossary: glossary.md
-  - References: refs.md
+ #  - References: refs.md
 
 copyright: Copyright &copy; 2023 - 2026 Patrick Cahan
 
