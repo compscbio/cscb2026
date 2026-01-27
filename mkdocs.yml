@@ -7,10 +7,12 @@ use_directory_urls: false
 
 extra_css:
   - stylesheets/extra.css
+  - stylesheets/glossary-style.css
 
 extra_javascript:
   - javascripts/extra.js
-
+  - javascripts/glossary-filter.js
+  
 theme:
   name: material
   palette:
@@ -19,11 +21,11 @@ theme:
   favicon: images/logo.png
   features:
     - content.footnote.tooltips
-    - navigation.expand
+#    - navigation.expand
 #    - navigation.tabs
 #    - navigation.tabs.sticky
 #    - navigation.sections
-    - toc.integrate
+#    - toc.integrate
 #    - navigation.path
 #    - header.autohide
 #    - navigation.indexes
@@ -48,8 +50,10 @@ markdown_extensions:
 plugins:
   - search
   - mkdocs-jupyter:
-      execute: false  # Set to true if you want to execute notebooks on build
       include_source: True
+      ignore_h1_titles: False
+      execute: false
+      allow_errors: false
 
 nav:
   - Home: index.md
