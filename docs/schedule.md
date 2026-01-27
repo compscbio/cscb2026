@@ -18,7 +18,7 @@ There are four chapters, or broad themes, that we will cover in this course:
 | Lecture 2      | 01-22-26 | 1       |scRNAseq data generation| [dropseq](https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4a69b4dc-dbad-4d0b-bcb1-b3da01543bb1)| [slides](https://jhu.instructure.com/courses/112401/files/folder/slides?preview=16930542) | |
 | Lecture 3      | 01-27-26 | 1       |Hematopoiesis; scRNAseq analysis I| [-]()| [-]() | 
 | Lecture 4      | 01-29-26 | 1       |scRNAseq analysis II| [-]()| [-]() | 
-| HW 1 due | 01-30-26 | 1 | HW1: scRNAseq analysis I|  | | [-]() |
+| HW 1 due | 01-30-26 11:59pm | 1 | HW1: scRNAseq analysis I|  | | [HW 1](hws/hw_1.md) |
 | Lecture 5      | 02-03-26 | 1       |scRNAseq analysis III; cell cycle| [-]()| [-]() | 
 | Lecture 6     | 02-05-26 | 1       |Early applications of sc omics to stem cells | [-]()| [-]() | 
 | HW 2 due | 02-06-26 | 1 | HW2: more scRNAseq analysis|  | | [-]() |
