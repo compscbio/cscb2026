@@ -77,10 +77,10 @@ nav:
 #    - 'Spatial transcriptomics 2': 'topics/st_2.md' # c2c, cool tools
 #    - 'Lineage tracing': 'topics/lineage_tracing.md'
 #    - 'Controversies': 'topics/controversies.md'
-#  - Jupyter notebooks:
-#    - 'HWEX Done': 'notebooks/hwex_done.ipynb'
-#    - 'Colab': 'notebooks/colab.ipynb'
-#    - 'scRNA-seq': 'notebooks/scBasics.ipynb'
+  - Jupyter notebooks:
+    - 'HWEX Done': 'notebooks/hwex_done.ipynb'
+    - 'Colab': 'notebooks/colab.ipynb'
+    - 'scRNA-seq': 'notebooks/scBasics.ipynb'
 #    - 'integration': 'notebooks/integration.ipynb'
 #    - 'trajectory inference': 'notebooks/scFates.ipynb'
 #    - 'stemness': 'notebooks/stemness.ipynb'
