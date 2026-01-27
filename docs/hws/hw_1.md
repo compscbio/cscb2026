@@ -3,11 +3,11 @@
 
 !!!warning "**Homework 1: Fundamentals of scRNA-seq analysis in Python**"
 
-    Deadline: Friday, Feb 7th 2025 11:59pm
+    Deadline: Friday, Jan 30th 2026 11:59pm
 
 
 ### Background
-We discussed hematopoiesis and the types of cells found in peripheral blood mononuclear cells (PBMCs) during Lectures 3-4. We also walked through the analysis of a human PBMC scRNA-seq data set, from CellRanger output to a cleaned anndata object decorated with cell type annotations for each cell. In this homework, you are going to explore what scRNA-seq tells us about PBMC cell type composition, and you are going to explore the impact of varying steps in the analysis pipeline on your estimate of cell type composition.
+We discussed hematopoiesis and the types of cells found in peripheral blood mononuclear cells (PBMCs) in Lecture 3. We also walked through the analysis of a human PBMC scRNA-seq data set, from CellRanger output to a cleaned anndata object decorated with cell type annotations for each cell. In this homework, you are going to explore what scRNA-seq tells us about PBMC cell type composition, and you are going to explore the impact of varying steps in the analysis pipeline on your estimate of cell type composition.
 
 !!!example "Cell type composition"
 
@@ -20,14 +20,16 @@ We discussed hematopoiesis and the types of cells found in peripheral blood mono
 - Natural killer (NK) cells: 10%
 - Monocyte: 5%
 - Dendritic cells: 1%
+- :material-robot-confused: Yes, the total is 101%. Don't look at me. I am just reporting what is listed in the literature.
+
 ##### Marker genes
-###### Monocytes
+###### Monocyte
 - LYZ (Lysozyme), CD14, CD68
 - sub-types:
 	- Classical:  CD14, LYZ, S100A8/S100A9, CCR2
 	- Intermediate: FCGR3A (CD16), CD163, IL1B
 	- non-classical: CX3CR1, FCGR3A (CD16), CCR5
-###### NK cell
+###### Natural killer cell
 - NCAM1 , KIR2DL1, KIR2DL3, KIR2DL4, KIR3DL1, KIR3DL2, NKG2A/C/E (KLRC1/KLRC2/KLRC3), NKG2D (KLRK1), GNLY, GZMB
 - Note that some are also expressed by subsets of T cell
 ###### B cell
@@ -40,45 +42,44 @@ We discussed hematopoiesis and the types of cells found in peripheral blood mono
 - FLT3, CD11C CD1C
 - CD123 & CLEC4C  (plasmacytoid dendritic cell)
 ###### Granulocytes and Megakaryocytes
-- were not widely recognized as occupying PBMC
-- If student suspects they may then they should identify and include makers thereof in their analysis.
+- Not widely recognized as occurring in PBMC
+- If you suspect that these cells are present in the data, then you should identify and include makers thereof in your analysis
 ### Data
-#### Sample 1
 This is the same Sample 1 as we used in Lecture 4. Here are some more details:
-- 10k PBMCs from a Healthy Donor (v3 chemistry) Single Cell Gene Expression Dataset by Cell Ranger 3.0.0
-- Peripheral blood mononuclear cells (PBMCs) from a healthy donor (the same cells were used to generate pbmc\_1k\_v2, pbmc\_10k\_v3). PBMCs are primary cells with relatively small amounts of RNA (~1pg RNA/cell).
-- 11,769 cells detected by CellRanger
+
+- 11,769  PBMCs from a healthy Donor. Data generated using 10X genomics v3 chemistry and processed with Cell Ranger 3.0.0
 - Sequenced on Illumina NovaSeq with approximately 54,000 reads per cell
 - [10X Genomics web page for this data](https://www.10xgenomics.com/resources/datasets/10-k-pbm-cs-from-a-healthy-donor-v-3-chemistry-3-standard-3-0-0)
-- URL to h5 file: https://cf.10xgenomics.com/samples/cell-exp/3.0.0/pbmc_10k_v3/pbmc_10k_v3_filtered_feature_bc_matrix.h5
-- file name: pbmc\_10k\_v3\_filtered\_feature\_bc\_matrix.h5
+- URL to h5 file:
+	- https://cf.10xgenomics.com/samples/cell-exp/3.0.0/pbmc_10k_v3/pbmc_10k_v3_filtered_feature_bc_matrix.h5
 
 !!!info "Your mission"
 
 	Analyze the provided data to address the questions listed below
 
 
-1. **What is the cell type composition of PBMCs of Sample 1?**
+1. **What cell types are present in the data and in what proportions?**
 
 	Deliverables:
 
 	- [ ] new .obs column indicating cell type
-	- [ ] appropriate visualization (i.e. UMAP with clusters labeled, supported by dotplot that shows exwpression of marker genes)
+	- [ ] appropriate visualization (i.e. UMAP with clusters labeled, supported by dotplot that shows expression of marker genes)
 
 2. **How does this estimate of cell composition compare to prior literature?**
-	To evaluate this rapidly and efficiently, write a function that will take a list of anndata objects that have cell annotations, and produces stacked barplot figure, one bar for scRNAseq, one for proportions from literature. each rectangle in a bar reflects % of sample annotated as cell type X.
+	To evaluate this rapidly and efficiently, generate a figure that depicts cell type composition as a stacked barplot. Your figure should show one stacked bar representing the scRNAseq cell type proportions, and one that represents the proportions from the literature as listed above. To be clear, each rectangle in stacked bar should reflect the percent of a sample that is annotated as cell type X.
 
 	Deliverables:
 
-	- [ ] The function definition
-	- [ ] Use of the function to produce the stacked boxplot that shows the cell type proportions from scRNAseq and from literature
+	- [ ] Show your code
+	- [ ] The figure
 
 3. **What are the transcriptional signatures of each of the PBMC cell types?** We know about some genes that are preferentially expressed in each PBMC cell type (in fact, you used some of these to perform cluster annotation). But one of the benefits of performing genome-wide analyses is that it can identify genes previously unlinked to the phenomenon under study. Your task here is to identify all genes that are preferentially expressed in each PBMC cell type. 
 
 	Deliverables:
 
-	- [ ] One list per cell type containing genes defined by the student as 'preferentially  expressed' in the corresponding cell type.
-	- [ ] Visualization: dot plot showing expression and % cells expressed of the top X genes per cell type
+	- [ ] Show your code
+	- [ ] The lists of signature genes for each cell type.
+	- [ ] Visualization: plot the cell type signatures using the builtin scanpy functions for heatmaps, matrixplot and dotplot. Use your judgement to select n, the top n set of genes to display for each cell type. Indicate in each figure the marker genes listed above.
 
 !!!success "**ALL SUBMISSIONS MUST...**"
 
