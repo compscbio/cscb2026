@@ -17,7 +17,7 @@ There are four chapters, or broad themes, that we will cover in this course:
 | Lecture 1      | 01-20-26 | 1       |Course introduction | [intro to course](https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6090c0a1-55d0-4acd-8407-b3d9002e56cf) |  [slides](https://jhu.instructure.com/courses/112401/files/folder/slides?preview=16914893)| |
 | Lecture 2      | 01-22-26 | 1       |scRNAseq data generation| [dropseq](https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4a69b4dc-dbad-4d0b-bcb1-b3da01543bb1)| [slides](https://jhu.instructure.com/courses/112401/files/folder/slides?preview=16930542) | |
 | Lecture 3      | 01-27-26 | 1       |Hematopoiesis; scRNAseq analysis I| [tutorial](https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=918d0af2-ebf9-4d10-be7c-b3df013e73fe)| [notebook](notebooks/scBasics.ipynb) | [Colab setup](notebooks/colab.ipynb) |  
-| Lecture 4      | 01-29-26 | 1       |scRNAseq analysis II| [-]()| [-]() | 
+| Lecture 4      | 01-29-26 | 1       |scRNAseq analysis II| [scRNAseq analysis II](https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6bd738a2-0d6d-43e2-8fb6-b3e1015dd269)| [notebook](notebooks/scBasics_2.ipynb) |  |
 | HW 1 due | 01-30-26 11:59pm | 1 | HW1: scRNAseq analysis I|  | | [HW 1](hws/hw_1.md) |
 | Lecture 5      | 02-03-26 | 1       |scRNAseq analysis III; cell cycle| [-]()| [-]() | 
 | Lecture 6     | 02-05-26 | 1       |Early applications of sc omics to stem cells | [-]()| [-]() | 

@@ -84,7 +84,8 @@ nav:
   - Jupyter notebooks:
     - 'HWEX Done': 'notebooks/hwex_done.ipynb'
     - 'Colab': 'notebooks/colab.ipynb'
-    - 'scRNA-seq': 'notebooks/scBasics.ipynb'
+    - 'scRNA-seq 1': 'notebooks/scBasics.ipynb'
+    - 'scRNA-seq 2': 'notebooks/scBasics_2.ipynb'
 #    - 'integration': 'notebooks/integration.ipynb'
 #    - 'trajectory inference': 'notebooks/scFates.ipynb'
 #    - 'stemness': 'notebooks/stemness.ipynb'
