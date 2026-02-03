@@ -46,7 +46,7 @@
 
     crutled3 [at] jh [dot] edu
 
-    Office hours: TBA
+    Office hours: Tuesdays and Thursdays, 4:30-5:30, Clark 210 (or Zoom by request)
 
 </div>
 

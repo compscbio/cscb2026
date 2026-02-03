@@ -21,7 +21,7 @@ There are four chapters, or broad themes, that we will cover in this course:
 | HW 1 due | 01-30-26 11:59pm | 1 | HW1: scRNAseq analysis I|  | | [HW 1](hws/hw_1.md) |
 | Lecture 5      | 02-03-26 | 1       |scRNAseq analysis III; cell cycle| [-]()| [-]() | 
 | Lecture 6     | 02-05-26 | 1       |Early applications of sc omics to stem cells | [-]()| [-]() | 
-| HW 2 due | 02-06-26 | 1 | HW2: more scRNAseq analysis|  | | [-]() |
+| HW 2 due | 02-10-26 11:59pm| 1 | HW2: more scRNAseq analysis|  | | [HW 2](hws/hw_2.md) |
 | Test 1 |  02-10-26 | 1       |sc omics| |  | |
 | HW 3 due | 02-25-26 | 2 | HW3: cell identity|  | | [-]() |
 | Test 2 |  03-05-26 | 2       |cell identity| |  | |
