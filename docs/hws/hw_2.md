@@ -3,7 +3,7 @@
 
 !!!warning "**Homework 2: Parameter Parcheesi**"
 
-    Deadline: Tuesday, Feb 10th 2026 11:59pm
+    Deadline: Friday, Feb 13th 2026 11:59pm
 
 ### Background
 This homework will ask you to to explore the impact of varying steps in the scRNA-seq analysis pipeline (as applied in HW1) on your estimate of cell type composition.
