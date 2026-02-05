@@ -20,7 +20,7 @@ There are four chapters, or broad themes, that we will cover in this course:
 | Lecture 4      | 01-29-26 | 1       |scRNAseq analysis II| [scRNAseq analysis II](https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6bd738a2-0d6d-43e2-8fb6-b3e1015dd269)| [notebook](notebooks/scBasics_2.ipynb) |  |
 | HW 1 due | 01-30-26 11:59pm | 1 | HW1: scRNAseq analysis I|  | | [HW 1](hws/hw_1.md) |
 | Lecture 5      | 02-03-26 | 1       |scRNAseq analysis III; cell cycle| [scRNAseq analysis III](https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=df74a472-d1a7-420f-95ab-b3e700403d4f)| [-]() | 
-| Lecture 6     | 02-05-26 | 1       |Early applications of sc omics to stem cells | [-]()| [-]() | 
+| Lecture 6     | 02-05-26 | 1       |end scRNAseq; pluripotency | [pluripotency](https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=665d23e1-137b-40b0-ab8b-b3e80169903f)| [slides](https://jhu.instructure.com/courses/112401/files/folder/slides?preview=17069777) | 
 | HW 2 due | 02-13-26 11:59pm| 1 | HW2: more scRNAseq analysis|  | | [HW 2](hws/hw_2.md) |
 | Test 1 |  02-10-26 | 1       |sc omics| |  | |
 | HW 3 due | 02-25-26 | 2 | HW3: cell identity|  | | [-]() |
