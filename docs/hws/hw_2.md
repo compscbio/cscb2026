@@ -37,7 +37,7 @@ This is the same Sample 1 as we used in Lecture 4. Here are some more details:
 - 2,909 cells
 - 115,061 reads per cell
 - healthy donor
-- [download](https://jhu.instructure.com/files/13362961/download?download_frd=1)
+- [download](https://jhu.instructure.com/courses/112401/files/17078372/download?download_frd=1)
 
 ### Your mission
 
