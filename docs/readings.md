@@ -25,3 +25,20 @@ Mar;26(3):303-4. doi: 10.1038/nbt0308-303. [PMID: 18327243](https://pubmed.ncbi.
 
 6. D'haeseleer P. How does gene expression clustering work? Nat Biotechnol. 2005
 Dec;23(12):1499-501. doi: 10.1038/nbt1205-1499. [PMID: 16333293](https://pubmed.ncbi.nlm.nih.gov/16333293/) [pdf](https://jhu.instructure.com/courses/112401/files/folder/readings?preview=17042430)
+
+
+### Weeks 4 - 6: Cell Identity
+
+7. What is a cell type?
+[pdf](https://jhu.instructure.com/courses/112401/files/folder/readings?preview=17154507)
+
+8. scMap
+[pdf](https://jhu.instructure.com/courses/112401/files/folder/readings?preview=17154513)
+
+9. BKNN
+[pdf](https://jhu.instructure.com/courses/112401/files/folder/readings?preview=17154511)
+
+10. singleCellNet
+[pdf](https://jhu.instructure.com/courses/112401/files/folder/readings?preview=17154514)
+
+

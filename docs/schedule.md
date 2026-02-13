@@ -23,6 +23,9 @@ There are four chapters, or broad themes, that we will cover in this course:
 | Lecture 6     | 02-05-26 | 1       |end scRNAseq; pluripotency | [pluripotency](https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=665d23e1-137b-40b0-ab8b-b3e80169903f)| [slides](https://jhu.instructure.com/courses/112401/files/folder/slides?preview=17069777) | 
 | HW 2 due | 02-13-26 11:59pm| 1 | HW2: more scRNAseq analysis|  | | [HW 2](hws/hw_2.md) |
 | Test 1 |  02-10-26 | 1       |sc omics| |  | |
+| Lecture 7     | 02-12-26 | 2       |Cell identity | [part I](https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=13d13cc1-3b5c-4274-83e0-b3f001764800) [part II](https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3056a2f0-60c9-4d6b-a499-b3f001764c63)| [slides](https://jhu.instructure.com/courses/112401/files/folder/slides?preview=17154230) | 
+| Lecture 8     | 02-17-26 | 2       |Data integration | - | - | 
+| Lecture 9     | 02-19-26 | 2       |Cell typing | - | - | 
 | HW 3 due | 02-25-26 | 2 | HW3: cell identity|  | | [-]() |
 | Test 2 |  03-05-26 | 2       |cell identity| |  | |
 | HW 4 due | 03-27-26 | 3 | HW4: trajectories and fate potential|  | | [-]() |
