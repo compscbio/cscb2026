@@ -4,8 +4,7 @@
 
     The overall goal of this homework is for you to gain a sophisticated understanding of these 'cell-typing' techniques and their relative merits in the context of cell fate engineering.
 
-    **Deadline: Monday, March 3rd 2025 11:59pm**
-
+    **Deadline: Friday, February 27th 2026 11:59pm**
 
 ### Background
 
@@ -72,19 +71,22 @@ The training and validation data sets are of human cadaver-derived pancreatic is
 - raw counts
 - cells QC-ed
 - cell type annotation in .obs\['cell\_type'\]
-- [h5ad: adTrain\_n110\_CSCB\_HW3.h5ad](https://jhu.instructure.com/files/13455166/download?download_frd=1)
+- [h5ad: adTrain\_n110\_CSCB\_HW3.h5ad](https://jhu.instructure.com/courses/112401/files/17195716/download?download_frd=1)
+
 ##### Validation data[^5]
 - pancreatic islets from 4 donors
 - raw counts
 - cells QC-ed
 - cell type annotation in .obs\['cell\_type'\]
-- [h5ad: adValidation\_n300\_CSCB\_HW3.h5ad](https://jhu.instructure.com/files/13455167/download?download_frd=1)
+- [h5ad: adValidation\_n300\_CSCB\_HW3.h5ad](https://jhu.instructure.com/courses/112401/files/17195717/download?download_frd=1)
+
 ##### Query data[^6]
 - Directed differentiation of hESCs and iPSCs towards beta-like cells (6 stage differentiation)
 - transplanted into mouse kidney capsule, then cells subsequently recovered
 - cells QC-ed and contaminating mouse cells removed
 - raw counts
-- [h5ad: adQuery\_n2000\_CSCB\_HW3.h5ad](https://jhu.instructure.com/files/13455164/download?download_frd=1)
+- [h5ad: adQuery\_n2000\_CSCB\_HW3.h5ad](https://jhu.instructure.com/courses/112401/files/17195715/download?download_frd=1)
+
 
 ##### Marker genes
 Here are solid marker genes of the major cell types that you can expect to encounter in this HW:
