@@ -86,7 +86,7 @@ nav:
     - 'Colab': 'notebooks/colab.ipynb'
     - 'scRNA-seq 1': 'notebooks/scBasics.ipynb'
     - 'scRNA-seq 2': 'notebooks/scBasics_2.ipynb'
-#    - 'integration': 'notebooks/integration.ipynb'
+    - 'cell_typing': 'notebooks/cell_typing_integration.ipynb'
 #    - 'trajectory inference': 'notebooks/scFates.ipynb'
 #    - 'stemness': 'notebooks/stemness.ipynb'
   - Assignments:
