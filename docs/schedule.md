@@ -26,7 +26,9 @@ There are four chapters, or broad themes, that we will cover in this course:
 | Lecture 7     | 02-12-26 | 2       |Cell identity | [part I](https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=13d13cc1-3b5c-4274-83e0-b3f001764800) [part II](https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3056a2f0-60c9-4d6b-a499-b3f001764c63)| [slides](https://jhu.instructure.com/courses/112401/files/folder/slides?preview=17154230) | 
 | Lecture 8     | 02-17-26 | 2       |Cell typing and data integration theory| [video](https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c41db62b-6be8-4a9c-b740-b3f401346723) | [slides](https://jhu.instructure.com/courses/112401/files/folder/slides?preview=17195622) | 
 | HW 3 posted | 02-17-26 | 2 | HW3: cell identity|  | | [HW 3](hws/hw_3.md) |
-| Lecture 9     | 02-19-26 | 2       |Cell typing and data integration practice| - | - |
+| Lecture 9     | 02-19-26 | 2       |Cell typing and data integration practice| [video](   
+https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cf3ea67d-eff6-4c48-b2e4-b3f6017577bc
+) | [notebook](notebooks/cell_typing_integration.ipynb) |
 | HW 3 due | 02-27-26 | 2 | HW3: cell identity|  | | [-]() |
 | Lecture 10     | 03-03-26 | 2       | | - | - |
 | Test 2 |  03-05-26 | 2       |cell identity| |  | |
