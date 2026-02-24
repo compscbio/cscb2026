@@ -1,3 +1,6 @@
+CLAUDE*
+CHANGELOG.md
+data/*
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 docs/notebooks/data/*
