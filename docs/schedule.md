@@ -26,27 +26,27 @@ There are four chapters, or broad themes, that we will cover in this course:
 | Lecture 7     | 02-12-26 | 2       |Cell identity | [part I](https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=13d13cc1-3b5c-4274-83e0-b3f001764800) [part II](https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3056a2f0-60c9-4d6b-a499-b3f001764c63)| [slides](https://jhu.instructure.com/courses/112401/files/folder/slides?preview=17154230) | 
 | Lecture 8     | 02-17-26 | 2       |Cell typing and data integration theory| [video](https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c41db62b-6be8-4a9c-b740-b3f401346723) | [slides](https://jhu.instructure.com/courses/112401/files/folder/slides?preview=17195622) | 
 | HW 3 posted | 02-17-26 | 2 | HW3: cell identity|  | | [HW 3](hws/hw_3.md) |
-| Lecture 9     | 02-19-26 | 2       |Cell typing and data integration practice| [video](   
-https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cf3ea67d-eff6-4c48-b2e4-b3f6017577bc
-) | [notebook](notebooks/cell_typing_integration.ipynb) |
+| Lecture 9     | 02-19-26 | 2       |Cell typing and data integration practice| [video](https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cf3ea67d-eff6-4c48-b2e4-b3f6017577bc) | [notebook](notebooks/cell_typing_integration.ipynb) |
+| Lecture 10     | 02-24-26 | 2       | | - | - |
+| Lecture 11     | 02-26-26 | 2       | | - | - |
 | HW 3 due | 02-27-26 | 2 | HW3: cell identity|  | | [-]() |
-| Lecture 10     | 03-03-26 | 2       | | - | - |
+| Lecture 12     | 03-03-26 | 2       | | - | - |
 | Test 2 |  03-05-26 | 2       |cell identity| |  | |
-| Lecture 11    | 03-10-26 | 3       | | - | - |
-| Lecture 12     | 03-12-26 | 3       | | - | - |
+| Lecture 13    | 03-10-26 | 3       | | - | - |
+| Lecture 14     | 03-12-26 | 3       | | - | - |
 | Spring Break  | 03-17-26 | NA       | | - | - |
 | Spring Break  | 03-19-26 | NA       | | - | - |
-| Lecture 13     | 03-24-26 | 3       | | - | - |
-| Lecture 14     | 03-26-26 | 3       | | - | - |
+| Lecture 15     | 03-24-26 | 3       | | - | - |
+| Lecture 16     | 03-26-26 | 3       | | - | - |
 | HW 4 due | 03-27-26 | 3 | HW4: trajectories and fate potential|  | | [-]() |
-| Lecture 15     | 03-31-26 | 3       | | - | - |
+| Lecture 17     | 03-31-26 | 3       | | - | - |
 | Test 3 |  04-02-26 | 3       |trajectories and fate potential| | | |
-| Lecture 16     | 04-07-26 | 4       | | - | - |
-| Lecture 17     | 04-09-26 | 4       | | - | - |
-| Lecture 18     | 04-14-26 | 4       | | - | - |
-| Lecture 19     | 04-16-26 | 4       | | - | - |
+| Lecture 18     | 04-07-26 | 4       | | - | - |
+| Lecture 19     | 04-09-26 | 4       | | - | - |
+| Lecture 20     | 04-14-26 | 4       | | - | - |
+| Lecture 21     | 04-16-26 | 4       | | - | - |
 | HW 5 due | 04-17-26 | 4 | HW5: regulatory networks|  | | [-]() |
-| Lecture 20     | 04-21-26 | 4       | | - | - |
+| Lecture 22     | 04-21-26 | 4       | | - | - |
 | Test 4 |  04-23-26 | 4       |regulatory networks| | | |
 
 
