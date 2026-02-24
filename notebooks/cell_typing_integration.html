@@ -1254,12 +1254,12 @@ span.linenos.special { color: #000000; background-color: #ffffc0; padding-left: 
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
 <h2 id="cell-typing-by-data-integration-and-by-classification">Cell typing by data integration and by classification<a class="anchor-link" href="#cell-typing-by-data-integration-and-by-classification">¶</a></h2><p>Here, we walk you through three ways to predict the cell types in your <em>query</em> scRNAseq data set by leveraging another, well-annotated <em>reference</em> dataset. The first way is to directly combine the datasets and cluster them together. The second way is called 'Batch Balanced KNN', which works by finding kNN across batches. The third way is to classify the query data with classifier that was trained with the reference data.</p>
 <h3 id="data">Data<a class="anchor-link" href="#data">¶</a></h3><p>We will use mouse cells from gastrula-stage embryos from two studies.</p>
-<p>The reference data comes from <a href="https://pubmed.ncbi.nlm.nih.gov/30787436/">Pijuan-Sala et al 2019</a> which describes a single cell census of gastrulation in mouse (E6.5 to E8.5). You can download <a href="https://jhu.instructure.com/files/13371890/download?download_frd=1">the .h5ad file here</a>.</p>
+<p>The reference data comes from <a href="https://pubmed.ncbi.nlm.nih.gov/30787436/">Pijuan-Sala et al 2019</a> which describes a single cell census of gastrulation in mouse (E6.5 to E8.5). You can download <a href="https://jhu.instructure.com/courses/112401/files/17275134/download?download_frd=1">the .h5ad file here</a>.</p>
 <figure>
 <img alt="Fig 1 from Pijuan-Sala et al 2019" src="img/sc_gastrulation.png" width="600"/>
 <figcaption>A single-cell resolution atlas of mouse gastrulation and early organogenesis. Fig 1 from <a href="https://pubmed.ncbi.nlm.nih.gov/30787436/">Pijuan-Sala et al 2019</a></figcaption>
 </figure>
-<p>The query data comes from another gastrula census <a href="https://pubmed.ncbi.nlm.nih.gov/32728215/">Grosswendt et al 2020</a>. You can download <a href="https://jhu.instructure.com/files/13371891/download?download_frd=1">the .h5ad file here</a>.</p>
+<p>The query data comes from another gastrula census <a href="https://pubmed.ncbi.nlm.nih.gov/32728215/">Grosswendt et al 2020</a>. You can download <a href="https://jhu.instructure.com/courses/112401/files/17275125/download?download_frd=1">the .h5ad file here</a>.</p>
 <p>For the sake of computational efficiency, we have taken only a small subset of the cells from each of these studies. The cell type label is stored in <code>.obs['celltype']</code></p>
 </div>
 </div>
