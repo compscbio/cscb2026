@@ -1,3 +1,4 @@
+.gitignore
 CLAUDE*
 CHANGELOG.md
 data/*

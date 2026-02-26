@@ -4,7 +4,7 @@
 
     The overall goal of this homework is for you to gain a sophisticated understanding of these 'cell-typing' techniques and their relative merits in the context of cell fate engineering.
 
-    **Deadline: Friday, February 27th 2026 11:59pm**
+    **Deadline: Friday, March 6th 2026 11:59pm**
 
 ### Background
 
