@@ -15,7 +15,7 @@
 - [Paper on Pubmed](https://pubmed.ncbi.nlm.nih.gov/31740819/)
 - [Python package](https://github.com/slowkow/harmonypy)
 
-![Harmony](../images/harmony.jpg){ width="80"}
+![Harmony](../images/harmony.jpg)
 
 ##### How it works
 Iterate:
@@ -34,7 +34,7 @@ Iterate:
 - What happens when a classification result is not definitive?
 - Rationale for 'random' class and for catgorization of prediciton results into 'singlular', etc
 
-![pyscn](../images/pyscn.jpg){ width="80"}
+![pyscn](../images/pyscn.jpg)
 
 
 #### HW3
