@@ -29,7 +29,7 @@ There are four chapters, or broad themes, that we will cover in this course:
 | Lecture 9     | 02-19-26 | 2       |Cell typing and data integration practice| [video](https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cf3ea67d-eff6-4c48-b2e4-b3f6017577bc) | [notebook](notebooks/cell_typing_integration.ipynb) |
 | Off     | 02-24-26 | 2       | | - | - |
 | Lecture 10     | 02-26-26 | 2       |Cell typing metrics | [video](https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0e815eaf-a311-4582-af6d-b3fd012d13ac) | [notes](lectures/cell_typing_metrics.md) |
-| Lecture 11     | 03-03-26 | 2       | | - | - |
+| Lecture 11     | 03-03-26 | 2       | Epigenetics | [video](https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=279960b9-df2c-4055-b5f4-b40201528b28) | [slides](https://jhu.instructure.com/courses/112401/files/folder/slides?preview=17364384) |
 | Test 2 |  03-05-26 | 2       |cell identity| |  | |
 | HW 3 due | 03-06-26 | 2 | HW3: cell identity|  | | [-]() |
 | Lecture 12    | 03-10-26 | 3       | | - | - |
