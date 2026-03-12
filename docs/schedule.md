@@ -33,14 +33,14 @@ There are four chapters, or broad themes, that we will cover in this course:
 | Test 2 |  03-05-26 | 2       |cell identity| |  | |
 | HW 3 due | 03-06-26 | 2 | HW3: cell identity|  | |  |
 | Lecture 12    | 03-10-26 | 3       | Intro to Trajectory Inference (TI) | [prerecorded video](https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f4008eda-bf94-4ace-b85a-b408010f75a1) | [slides](https://jhu.instructure.com/courses/112401/files/folder/slides?preview=17429979) |
-| Lecture 13     | 03-12-26 | 3       | scFates tutorial | - | - |
+| Lecture 13     | 03-12-26 | 3       | scFates tutorial | [prerecorded video](https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2d0ade36-17f9-405f-909e-b40b001c4c85) | [notebook](notebooks/scfates.ipynb) |
 | Spring Break  | 03-17-26 | NA       | | - | - |
 | Spring Break  | 03-19-26 | NA       | | - | - |
-| Lecture 14     | 03-24-26 | 3       | dev bio speed run| - | - |
-| Lecture 15     | 03-26-26 | 3       | stemness | - | - |
-| HW 4 due | 03-27-26 | 3 | HW4: trajectories and fate potential|  | | [-]() |
-| Lecture 16     | 03-31-26 | 3       | | optimal transport & rna velocity| - |
-| Test 3 |  04-02-26 | 3       |trajectories and fate potential| | | |
+| Lecture 14     | 03-24-26 | 3       | Dev bio fundamentals| - | - |
+| Lecture 15     | 03-26-26 | 3       | 'Stemness' | - | - |
+| Lecture 16     | 03-31-26 | 3       |  Optimal transport & RNA velocity | - | - |
+| Test 3 |  04-02-26 | 3       | Trajectories and fate potential | | | |
+| HW 4 due | 04-06-26 | 3 | HW4: trajectories and fate potential |  | | [-]() |
 | Lecture 17     | 04-07-26 | 4       | | - | - |
 | Lecture 18     | 04-09-26 | 4       | | - | - |
 | Lecture 19     | 04-14-26 | 4       | | - | - |
