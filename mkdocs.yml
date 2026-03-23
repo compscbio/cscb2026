@@ -34,12 +34,16 @@ theme:
 
 
 markdown_extensions:
+  - abbr
   - md_in_html
   - footnotes
   - admonition
   - attr_list
   - tables
   - def_list
+  - pymdownx.snippets:
+      auto_append:
+        - includes/abbreviations.md
   - toc:
       title: On this page
   - pymdownx.blocks.caption
@@ -92,7 +96,7 @@ nav:
     - 'scRNA-seq 2': 'notebooks/scBasics_2.ipynb'
     - 'cell_typing': 'notebooks/cell_typing_integration.ipynb'
     - 'cell_typing metrics': 'notebooks/classification_metrics.ipynb'
-#    - 'trajectory inference': 'notebooks/scFates.ipynb'
+    - 'trajectory inference': 'notebooks/scFates.ipynb'
 #    - 'stemness': 'notebooks/stemness.ipynb'
   - Assignments:
     - 'Guidelines': 'hws/guidelines.md'
@@ -100,7 +104,7 @@ nav:
     - 'HW 1': 'hws/hw_1.md'
     - 'HW 2': 'hws/hw_2.md'
     - 'HW 3': 'hws/hw_3.md'
-#    - 'HW 4': 'hws/hw_4.md'
+    - 'HW 4': 'hws/hw_4.md'
 #    - 'HW 5': 'hws/hw_5.md'
   - Readings: readings.md
   - Glossary: glossary.md

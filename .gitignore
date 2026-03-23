@@ -8,3 +8,4 @@ docs/notebooks/data/*
 site/*
 site
 .DS_Store
+literature/*

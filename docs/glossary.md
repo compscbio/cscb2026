@@ -81,6 +81,46 @@ A three-dimensional aggregate of pluripotent stem cells that spontaneously diffe
 
 <div class="glossary-term" data-tags="dev-bio" markdown="1">
 
+## Anterior Primitive Streak
+
+The anterior-most region of the primitive streak in amniote embryos, from which cells ingress early during gastrulation to give rise primarily to definitive endoderm and axial mesoderm.
+
+<span class="term-tags">Tags: dev-bio</span>
+
+</div>
+
+<div class="glossary-term" data-tags="dev-bio" markdown="1">
+
+## Definitive Endoderm
+
+The endodermal germ layer derived from epiblast cells during gastrulation that gives rise to the gut tube and its derivative organs (liver, pancreas, lungs, thyroid). Distinguished from visceral (extraembryonic) endoderm, which has a distinct developmental origin.
+
+<span class="term-tags">Tags: dev-bio</span>
+
+</div>
+
+<div class="glossary-term" data-tags="dev-bio,stem-bio" markdown="1">
+
+## Epiblast
+
+The pluripotent cell population within the post-implantation embryo that gives rise to all somatic cell types and germ cells of the embryo proper. During gastrulation, epiblast cells ingress through the primitive streak to form mesoderm and definitive endoderm.
+
+<span class="term-tags">Tags: dev-bio, stem-bio</span>
+
+</div>
+
+<div class="glossary-term" data-tags="dev-bio,cell-bio" markdown="1">
+
+## Epithelial-to-Mesenchymal Transition (EMT)
+
+A biological process in which polarized epithelial cells lose their cell-cell adhesion and apical-basal polarity and acquire migratory, mesenchymal properties. During gastrulation, EMT enables epiblast cells to delaminate from the epithelium and ingress through the primitive streak.
+
+<span class="term-tags">Tags: dev-bio, cell-bio</span>
+
+</div>
+
+<div class="glossary-term" data-tags="dev-bio" markdown="1">
+
 ## Gastrulation
 
 The fundamental reorganization of the embryo during which the three primary germ layers (ectoderm, mesoderm, and endoderm) are established through coordinated cell movements.
@@ -126,6 +166,16 @@ The process by which one group of cells influences the developmental fate of adj
 Experimental techniques used to track the developmental history and fate of cells and their progeny over time.
 
 <span class="term-tags">Tags: dev-bio, stem-bio</span>
+
+</div>
+
+<div class="glossary-term" data-tags="dev-bio" markdown="1">
+
+## Mesoderm
+
+The middle germ layer formed during gastrulation, situated between ectoderm and endoderm. Mesoderm gives rise to muscle, bone, connective tissue, the circulatory system, and kidneys, among other tissues.
+
+<span class="term-tags">Tags: dev-bio</span>
 
 </div>
 
@@ -196,6 +246,16 @@ Segmented blocks of mesoderm that form along the anterior-posterior axis of the 
 The first step in cell fate determination where a cell is biased toward a particular developmental pathway but can still be redirected by environmental signals.
 
 <span class="term-tags">Tags: dev-bio, stem-bio</span>
+
+</div>
+
+<div class="glossary-term" data-tags="dev-bio" markdown="1">
+
+## Visceral Endoderm
+
+An extraembryonic endoderm layer in mouse embryos that lines the egg cylinder and plays important roles in anterior-posterior patterning and nutrient transport. Unlike definitive endoderm, visceral endoderm is not derived from epiblast cells during gastrulation.
+
+<span class="term-tags">Tags: dev-bio</span>
 
 </div>
 
@@ -691,6 +751,16 @@ The process of filtering out low-quality cells and genes based on metrics such a
 
 <div class="glossary-term" data-tags="single-cell-analysis" markdown="1">
 
+## scFates
+
+A Python package for trajectory inference and analysis of single-cell data that fits principal graphs (trees) to identify branching trajectories, compute pseudotime, and test gene associations along branches.
+
+<span class="term-tags">Tags: single-cell-analysis</span>
+
+</div>
+
+<div class="glossary-term" data-tags="single-cell-analysis" markdown="1">
+
 ## Seurat
 
 A widely used R package for single-cell RNA sequencing analysis, including QC, normalization, clustering, and visualization.
@@ -714,6 +784,16 @@ t-distributed Stochastic Neighbor Embedding - A nonlinear dimensionality reducti
 ## UMAP
 
 Uniform Manifold Approximation and Projection - A nonlinear dimensionality reduction technique that preserves both local and global structure, commonly used for visualizing single-cell data.
+
+<span class="term-tags">Tags: single-cell-analysis</span>
+
+</div>
+
+<div class="glossary-term" data-tags="single-cell-analysis" markdown="1">
+
+## CytoTRACE
+
+Cellular (Cyto) Trajectory Reconstruction Analysis using gene Counts and Expression — a computational method that predicts the relative differentiation state (potency) of cells from scRNA-seq data based on the number of expressed genes per cell, without requiring trajectory inference or pseudotime ordering.
 
 <span class="term-tags">Tags: single-cell-analysis</span>
 
