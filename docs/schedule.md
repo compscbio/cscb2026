@@ -36,7 +36,7 @@ There are four chapters, or broad themes, that we will cover in this course:
 | Lecture 13     | 03-12-26 | 3       | scFates tutorial | [prerecorded video](https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2d0ade36-17f9-405f-909e-b40b001c4c85) | [notebook](notebooks/scFates.ipynb) |
 | Spring Break  | 03-17-26 | NA       | | - | - |
 | Spring Break  | 03-19-26 | NA       | | - | - |
-| Lecture 14     | 03-24-26 | 3       | Dev bio fundamentals| - | - |
+| Lecture 14     | 03-24-26 | 3       | Dev bio fundamentals| [video](https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ae659d0a-6057-4a85-a5b7-b41701879fa2) | [slides & notes](https://jhu.instructure.com/courses/112401/files/folder/readings?preview=17552705) |
 | Lecture 15     | 03-26-26 | 3       | 'Stemness' | - | - |
 | Lecture 16     | 03-31-26 | 3       |  Optimal transport & RNA velocity | - | - |
 | Test 3 |  04-02-26 | 3       | Trajectories and fate potential | | | |

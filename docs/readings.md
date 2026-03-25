@@ -65,7 +65,16 @@ Bioinformatics. 2023 Jan 1;39(1):btac746. doi: 10.1093/bioinformatics/btac746.
 16. Stemness -- Cytotrace
 [pdf](https://jhu.instructure.com/courses/112401/files/folder/readings?preview=17430041)
 
-17. Optimal transport
+17. Stemness -- StemID
+[pdf](https://jhu.instructure.com/courses/112401/files/folder/readings?preview=17552669)
+Grün D, Muraro MJ, Boisset JC, Wiebrands K, Lyubimova A, Dharmadhikari G, van
+den Born M, van Es J, Jansen E, Clevers H, de Koning EJP, van Oudenaarden A. De
+Novo Prediction of Stem Cell Identity using Single-Cell Transcriptome Data. Cell
+Stem Cell. 2016 Aug 4;19(2):266-277. doi: 10.1016/j.stem.2016.05.010. Epub 2016
+Jun 23. [PMID: 27345837](https://pubmed.ncbi.nlm.nih.gov/27345837/); PMCID: PMC4985539.
+
+
+18. Optimal transport
 Schiebinger G, Shu J, Tabaka M, Cleary B, Subramanian V, Solomon A, Gould J,
 Liu S, Lin S, Berube P, Lee L, Chen J, Brumbaugh J, Rigollet P, Hochedlinger K,
 Jaenisch R, Regev A, Lander ES. Optimal-Transport Analysis of Single-Cell Gene
@@ -74,13 +83,15 @@ Feb 7;176(4):928-943.e22. doi: 10.1016/j.cell.2019.01.006. Epub 2019 Jan 31.
 Erratum in: Cell. 2019 Mar 7;176(6):1517. doi: 10.1016/j.cell.2019.02.026. [PMID:
 30712874](https://pubmed.ncbi.nlm.nih.gov/30712874/)
 
-18. RNA velocity
+19. RNA velocity
 La Manno G, Soldatov R, Zeisel A, Braun E, Hochgerner H, Petukhov V,
 Lidschreiber K, Kastriti ME, Lönnerberg P, Furlan A, Fan J, Borm LE, Liu Z, van
 Bruggen D, Guo J, He X, Barker R, Sundström E, Castelo-Branco G, Cramer P,
 Adameyko I, Linnarsson S, Kharchenko PV. RNA velocity of single cells. Nature.
 2018 Aug;560(7719):494-498. doi: 10.1038/s41586-018-0414-6. Epub 2018 Aug 8.
 [PMID: 30089906](https://pubmed.ncbi.nlm.nih.gov/30089906/)
+
+
 
 ### Chapter 4: Gene regulatory networks and cell fate engineering
 
