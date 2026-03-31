@@ -38,9 +38,11 @@ Use [scFates](../glossary.md#scfates) to reconstruct a trajectory that connects 
 
 	Key parameters to justify include the number of principal points used to fit the tree, the root node selection, and the number of principal components used as input to the principal graph.
 
-### Task 2b: Validate the trajectory with biological priors
+### ~~Task 2b: Validate the trajectory with biological priors~~
 
-The data include cells from embryonic stages E6.5, E7.5, and E8.5. Overlay the embryonic stage labels on your pseudotime ordering (e.g., plot pseudotime colored or grouped by stage). Is the pseudotime ordering consistent with actual developmental time? Where does it agree and where does it disagree? Use this analysis to assess the biological plausibility of your inferred trajectory.
+~~The data include cells from embryonic stages E6.5, E7.5, and E8.5. Overlay the embryonic stage labels on your pseudotime ordering (e.g., plot pseudotime colored or grouped by stage). Is the pseudotime ordering consistent with actual developmental time? Where does it agree and where does it disagree? Use this analysis to assess the biological plausibility of your inferred trajectory.~~
+
+Task 2B is not required!
 
 ### Task 3: Discover regulators of differentiation
 

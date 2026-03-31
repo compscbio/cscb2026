@@ -38,7 +38,7 @@ There are four chapters, or broad themes, that we will cover in this course:
 | Spring Break  | 03-19-26 | NA       | | - | - |
 | Lecture 14     | 03-24-26 | 3       | Dev bio fundamentals| [video](https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ae659d0a-6057-4a85-a5b7-b41701879fa2) | [slides & notes](https://jhu.instructure.com/courses/112401/files/folder/readings?preview=17553162) |
 | Lecture 15     | 03-26-26 | 3       | 'Stemness' | [video](https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=786036f9-537d-4c55-81a5-b41a017bda70) | [slides](https://jhu.instructure.com/courses/112401/files/folder/slides?preview=17581382) |
-| Lecture 16     | 03-31-26 | 3       |  Optimal transport & RNA velocity | - | - |
+| Lecture 16     | 03-31-26 | 3       |  Optimal transport & RNA velocity | [RNA velocity video](https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c24d2254-8f2a-4d92-8adc-b41e00e42ec6) [OT explained by Dr. Schiebinger](https://www.youtube.com/watch?v=kn3fPjZT0gc)| [RV slides](https://jhu.instructure.com/courses/112401/files/folder/slides?preview=17630658) |
 | Test 3 |  04-02-26 | 3       | Trajectories and fate potential | | | |
 | HW 4 due | 04-06-26 | 3 | HW4: trajectories and fate potential |  | | [-]() |
 | Lecture 17     | 04-07-26 | 4       | | - | - |
