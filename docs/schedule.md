@@ -40,14 +40,13 @@ There are four chapters, or broad themes, that we will cover in this course:
 | Lecture 15     | 03-26-26 | 3       | 'Stemness' | [video](https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=786036f9-537d-4c55-81a5-b41a017bda70) | [slides](https://jhu.instructure.com/courses/112401/files/folder/slides?preview=17581382) |
 | Lecture 16     | 03-31-26 | 3       |  Optimal transport & RNA velocity | [RNA velocity video](https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c24d2254-8f2a-4d92-8adc-b41e00e42ec6) [OT explained by Dr. Schiebinger](https://www.youtube.com/watch?v=kn3fPjZT0gc)| [RV slides](https://jhu.instructure.com/courses/112401/files/folder/slides?preview=17630658) |
 | Test 3 |  04-02-26 | 3       | Trajectories and fate potential | | | |
-| HW 4 due | 04-06-26 | 3 | HW4: trajectories and fate potential |  | | [-]() |
-| Lecture 17     | 04-07-26 | 4       | | - | - |
-| Lecture 18     | 04-09-26 | 4       | | - | - |
-| Lecture 19     | 04-14-26 | 4       | | - | - |
-| Lecture 20     | 04-16-26 | 4       | | - | - |
-| HW 5 due | 04-17-26 | 4 | HW5: regulatory networks|  | | [-]() |
-| Lecture 21     | 04-21-26 | 4       | | - | - |
-| Test 4 |  04-23-26 | 4       |regulatory networks| | | |
-
+| HW 4 due | 04-08-26 | 3 | HW4: trajectories and fate potential |  | | [-]() |
+| Lecture 17     | 04-07-26 | 4       | Gene regulatory networks (GRNs) | [video](https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0c5117c1-7222-4c8a-8b93-b42600d3221c) | [slides](https://jhu.instructure.com/courses/112401/files/folder/slides?preview=17717546) |
+| Lecture 18     | 04-09-26 | 4       | GRNs from single cell omics data | - | - |
+| Lecture 19     | 04-14-26 | 4       | Computational approaches to cell fate engineering | - | - |
+| Lecture 20     | 04-16-26 | 4       | Simulating single cell trajectories | - | - |
+| Lecture 21     | 04-21-26 | 4       | Spatial transcriptomics and cell-cell communications | - | - |
+| **Test 4** |  04-23-26 | 4       | Regulatory networks | | | |
+| **HW 5 due** | 04-27-26 | 4 | HW5: Regulatory networks |  | | [-]() |
 
 

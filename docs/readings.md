@@ -91,9 +91,55 @@ Adameyko I, Linnarsson S, Kharchenko PV. RNA velocity of single cells. Nature.
 2018 Aug;560(7719):494-498. doi: 10.1038/s41586-018-0414-6. Epub 2018 Aug 8.
 [PMID: 30089906](https://pubmed.ncbi.nlm.nih.gov/30089906/)
 
-
-
 ### Chapter 4: Gene regulatory networks and cell fate engineering
+
+20. Context likelihood of relatedness
+Faith JJ, Hayete B, Thaden JT, Mogno I, Wierzbowski J, Cottarel G, Kasif S,
+Collins JJ, Gardner TS. Large-scale mapping and validation of Escherichia coli
+transcriptional regulation from a compendium of expression profiles. PLoS Biol.
+2007 Jan;5(1):e8. doi: 10.1371/journal.pbio.0050008. [PMID: 17214507](https://pubmed.ncbi.nlm.nih.gov/17214507/)
+
+21. SCENIC Plus
+Bravo González-Blas C, De Winter S, Hulselmans G, Hecker N, Matetovici I,
+Christiaens V, Poovathingal S, Wouters J, Aibar S, Aerts S. SCENIC+: single-cell
+multiomic inference of enhancers and gene regulatory networks. Nat Methods. 2023
+Sep;20(9):1355-1367. doi: 10.1038/s41592-023-01938-4. Epub 2023 Jul 13. [PMID:
+37443338](https://pubmed.ncbi.nlm.nih.gov/37443338/)
+
+22. Beeline
+Pratapa A, Jalihal AP, Law JN, Bharadwaj A, Murali TM. Benchmarking
+algorithms for gene regulatory network inference from single-cell transcriptomic
+data. Nat Methods. 2020 Feb;17(2):147-154. doi: 10.1038/s41592-019-0690-6. Epub
+2020 Jan 6. [PMID: 31907445](https://pubmed.ncbi.nlm.nih.gov/31907445/)
+
+23. Open questions in CSCB
+Cahan P, Cacchiarelli D, Dunn SJ, Hemberg M, de Sousa Lopes SMC, Morris SA,
+Rackham OJL, Del Sol A, Wells CA. Computational Stem Cell Biology: Open
+Questions and Guiding Principles. Cell Stem Cell. 2021 Jan 7;28(1):20-32. doi:
+10.1016/j.stem.2020.12.012. [PMID: 33417869](https://pubmed.ncbi.nlm.nih.gov/33417869/)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
