@@ -43,10 +43,10 @@ There are four chapters, or broad themes, that we will cover in this course:
 | HW 4 due | 04-08-26 | 3 | HW4: trajectories and fate potential |  | | [-]() |
 | Lecture 17     | 04-07-26 | 4       | Gene regulatory networks (GRNs) | [video](https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0c5117c1-7222-4c8a-8b93-b42600d3221c) | [slides](https://jhu.instructure.com/courses/112401/files/folder/slides?preview=17717546) |
 | Lecture 18     | 04-09-26 | 4       | GRNs from single cell omics data | [pre-recorded video](https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a54ccd2e-5f39-4e97-9a08-b42700f8e18a) | [slides](https://jhu.instructure.com/courses/112401/files/folder/slides?preview=17728927) |
-| Lecture 19     | 04-14-26 | 4       | Computational approaches to cell fate engineering | [video](https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6dc3d198-4fbf-47cf-9c64-b42c0189fc12) | [slides](https://jhu.instructure.com/courses/112401/files/folder/slides?preview=17785107) |
-| Lecture 20     | 04-16-26 | 4       | Simulating single cell trajectories | [video](https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=aeb1593f-8426-4962-86d1-b42e00b4c276) | [slides](https://jhu.instructure.com/courses/112401/files/folder/slides?preview=17801803) | [notebook]() |
-| Lecture 21     | 04-21-26 | 4       | Spatial transcriptomics and cell-cell communications | - | - |
+| Lecture 19     | 04-14-26 | 4       | Computational approaches to cell fate engineering | [video](https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b362d54b-e0c2-4171-b9f6-b43300eb39ce) | [slides](https://jhu.instructure.com/courses/112401/files/folder/slides?preview=17785107) |
+| Lecture 20     | 04-16-26 | 4       | Simulating single cell trajectories | [video](https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b675b229-2389-4353-9f6d-b43300eb01ff) | [slides](https://jhu.instructure.com/courses/112401/files/folder/slides?preview=17801803) | [oneSC documentation](https://onesc.readthedocs.io/en/latest/infer_grn_scanpy.html) |
+| Lecture 21     | 04-21-26 | 4       | Spatial transcriptomics and cell-cell communications | [video](https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9eec31d9-6ba6-4cd0-8347-b43300ecb351) | [slides](https://jhu.instructure.com/courses/112401/files/folder/slides?preview=17874874) |
 | **Test 4** |  04-23-26 | 4       | Regulatory networks | | | |
-| **HW 5 due** | 04-27-26 | 4 | HW5: Regulatory networks |  | | [-]() |
+| **HW 5 due** | 04-27-26 | 4 | HW5: Regulatory networks |  | | [HW 5](hws/hw_5.md) |
 
 
