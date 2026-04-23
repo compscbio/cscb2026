@@ -33,7 +33,7 @@ Did your method outperform the baseline method? Discuss why or why not.
 ### Data
 
 #### List of mouse transcription factors:
-- [allTFs_mm_aertslab_011924.txt](https://jhu.instructure.com/files/13616012)
+- [mouse_tfs_aertslab.txt](https://jhu.instructure.com/files/17537930)
 
 
 #### scRNA-seq data of mouse gastrulation embryonic cells
